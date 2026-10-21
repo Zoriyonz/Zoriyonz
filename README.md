@@ -92,7 +92,7 @@ I'm a **3rd-year BSc Computer Science student at the University of Victoria** wi
 
 ## ⚡ Outside the terminal
 
-🖨️ I run a 3D-printed fidget-toy side business · 📝 I help format surgical case reports for journal submission · 🔭 astronomy · 🎹 piano · 🏎️ sim racing · 🏀⚽ basketball and football
+Gym · piano · 🏎️ sim racing · 🏀⚽ basketball and football
 
 ---
 
