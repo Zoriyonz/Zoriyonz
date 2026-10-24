@@ -28,6 +28,7 @@ I'm a **3rd-year BSc Computer Science student at the University of Victoria** wi
 
 - 🔁 I help structure a **two-way trade corridor between Canada and India** from Victoria, positioned around the Canada–India Comprehensive Economic Partnership Agreement (CEPA).
 - 🏗️ I coordinate operations between the Canadian and Indian entities, and I built the venture's public website (`qpquintet-web`, TypeScript).
+- 🖨️ **In progress:** a B2B export channel for **3D-printed TPU parts**, printed in Victoria and shipped to Kolkata. It focuses on prototyping and validation partnerships with local manufacturers.
 - 🍽️ Before this I interned at **Machhli Baba Foods (Kolkata)**. I set up the Petpooja POS across store terminals for a restaurant group that now runs **13 stores**.
 
 ---
@@ -91,7 +92,7 @@ I'm a **3rd-year BSc Computer Science student at the University of Victoria** wi
 
 ## ⚡ Outside the terminal
 
-Gym · piano · 🏎️ sim racing · 🏀⚽ basketball and football
+🔧 working on cars · 🎹 piano · 🏎️ sim racing · 🏀⚽ basketball and football
 
 ---
 
