@@ -63,6 +63,8 @@ Product experiments I built on my own. None reached production, but each was a r
 
 🏋️ **Forge:** builds a weekly workout plan from your body, goals and available equipment. Turborepo monorepo (web app + CLI) · TypeScript
 
+🧭 **Waypoint:** tracks job applications and scores how well your resume matches each posting, with a transparent, deterministic engine. A web board plus a Chrome extension. Turborepo monorepo · TypeScript
+
 🏃 **Gym Split AI:** early prototype combining wearable health data with conversational goals to generate a workout split.
 
 ---
