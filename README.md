@@ -9,7 +9,7 @@
 *I write code and run businesses, and usually both in the same week.*
 
 <a href="https://www.linkedin.com/in/zoriyonz/"><img src="https://img.shields.io/badge/LinkedIn-zoriyonz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:zoriyonz@uvic.ca"><img src="https://img.shields.io/badge/Email-zoriyonz%40uvic.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:zorizion@gmail.com"><img src="https://img.shields.io/badge/Email-zorizion%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Based_in-Victoria%2C_BC-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
@@ -29,18 +29,32 @@ I'm a **3rd-year BSc Computer Science student at the University of Victoria** wi
 - 🔁 I help structure a **two-way trade corridor between Canada and India** from Victoria, positioned around the Canada–India Comprehensive Economic Partnership Agreement (CEPA).
 - 🏗️ I coordinate operations between the Canadian and Indian entities, and I built the venture's public website (`qpquintet-web`, TypeScript).
 - 🖨️ **In progress:** a B2B export channel for **3D-printed TPU parts**, printed in Victoria and shipped to Kolkata. It focuses on prototyping and validation partnerships with local manufacturers.
-- 🍽️ Before this I interned at **Machhli Baba Foods (Kolkata)**. I set up the Petpooja POS across store terminals for a restaurant group that now runs **13 stores**.
+- 🍽️ Since a 2024 internship I've also supported **Machhli Baba Foods (Kolkata)**. I set up the Petpooja POS across store terminals for a restaurant group that now runs **13 stores**.
 
 ---
 
 ## 🚀 Grinbuck Technologies
 
-**Contributing Member, Technology & Business Operations @ [Grinbuck Technologies Inc.](https://github.com/grinbuck-technologies/grinbuck-technologies-web)**
+**Contributing Member, Marketing, Technology & Business Operations @ [Grinbuck Technologies Inc.](https://github.com/grinbuck-technologies/grinbuck-technologies-web)**
 
 - 🌐 I rebuilt the **grinbuck.com** homepage in **TypeScript** with GSAP scroll animations. The portfolio section is driven by a single data file.
 - 🧩 Portfolio: **tabMonk** (live flagship product) · **ClickIT** (in development: tactile fidget tools with a school and clinic pilot program) · **QP Quintet**
 - 🔍 I audited the front-end codebase twice, for dead dependencies, type safety and accessibility, against the team's coding standards.
 - 🛠️ I've also shipped client sites under the Grinbuck org (`alokesh-banerjee-web`).
+
+---
+
+## 🧪 Prototypes
+
+Product experiments I built on my own. None reached production, but each was a real attempt at a problem I ran into myself.
+
+🔎 **Visa Wise:** a deterministic, rules-based engine that maps immigration pathways to Canada and the US. It uses fully deterministic logic instead of AI output, because wrong answers on this subject carry real consequences. Next.js · TypeScript
+
+📄 **Resume Tailor:** tailors a resume to a job posting by parsing the description and reweighting existing experience. Next.js · TypeScript
+
+🏋️ **Forge:** builds a weekly workout plan from your body, goals and available equipment. Turborepo monorepo · TypeScript
+
+🏃 **Gym Split AI:** early prototype combining wearable health data with conversational goals to generate a workout split.
 
 ---
 
