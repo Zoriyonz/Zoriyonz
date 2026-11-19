@@ -18,7 +18,7 @@
 
 ## 🧭 About
 
-I'm a **3rd-year BSc Computer Science student at the University of Victoria** with a **Business minor**. I build software, and I also do business operations for two ventures headquartered in Victoria. I'm looking for **co-op and internship roles in software development**.
+I'm a **3rd-year BSc Computer Science student at the University of Victoria** with a **Business minor**. I build software, and I also do business operations across a few ventures, in Victoria and Kolkata. I'm looking for **co-op and internship roles in software development**.
 
 ---
 
@@ -29,7 +29,16 @@ I'm a **3rd-year BSc Computer Science student at the University of Victoria** wi
 - 🔁 I help structure a **two-way trade corridor between Canada and India** from Victoria, positioned around the Canada–India Comprehensive Economic Partnership Agreement (CEPA).
 - 🏗️ I coordinate operations between the Canadian and Indian entities, and I built the venture's public website (`qpquintet-web`, TypeScript).
 - 🖨️ **In progress:** a B2B export channel for **3D-printed TPU parts**, printed in Victoria and shipped to Kolkata. It focuses on prototyping and validation partnerships with local manufacturers.
-- 🍽️ Since a 2024 internship I've also supported **Machhli Baba Foods (Kolkata)**. I set up the Petpooja POS across store terminals for a restaurant group that now runs **13 stores**.
+
+---
+
+## 🍽️ Machhli Baba Foods LLP
+
+**Contributing Member @ [Machhli Baba Foods LLP](https://machhlibabafries.com), Kolkata, India** · 2024 – Present
+
+- 🧑‍🍳 I joined as a **4-month intern (Sept–Dec 2024)** and have been a contributing member since.
+- 🧾 I **configured and integrated the Petpooja point-of-sale system** across store terminals, aligning menu structures and transaction workflows with how the stores actually operate.
+- 🏪 I support a **multi-brand F&B operation** spanning **Calcutta Cravings** (est. 2018) and **Chou Zhang** (2024), now **13 stores across Kolkata**.
 
 ---
 
@@ -52,7 +61,7 @@ Product experiments I built on my own. None reached production, but each was a r
 
 📄 **Resume Tailor:** tailors a resume to a job posting by parsing the description and reweighting existing experience. Next.js · TypeScript
 
-🏋️ **Forge:** builds a weekly workout plan from your body, goals and available equipment. Turborepo monorepo · TypeScript
+🏋️ **Forge:** builds a weekly workout plan from your body, goals and available equipment. Turborepo monorepo (web app + CLI) · TypeScript
 
 🏃 **Gym Split AI:** early prototype combining wearable health data with conversational goals to generate a workout split.
 
