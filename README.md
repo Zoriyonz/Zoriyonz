@@ -48,7 +48,7 @@ I'm a **3rd-year BSc Computer Science student at the University of Victoria** wi
 
 Product experiments I built on my own. None reached production, but each was a real attempt at a problem I ran into myself.
 
-🔎 **Visa Wise:** a deterministic, rules-based engine that maps immigration pathways to Canada and the US. It uses fully deterministic logic instead of AI output, because wrong answers on this subject carry real consequences. Next.js · TypeScript
+🔎 **Visa Wise:** a deterministic, rules-based engine that maps Canadian immigration pathways (US rules are in the dataset). Eligibility comes from fixed rules, not AI output, because wrong answers on this subject carry real consequences. Claude only explains the result. Next.js · TypeScript
 
 📄 **Resume Tailor:** tailors a resume to a job posting by parsing the description and reweighting existing experience. Next.js · TypeScript
 
